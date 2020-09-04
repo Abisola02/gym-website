@@ -1,0 +1,218 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#top{
+    background-image: url(../images/Untitled\ design\ \(10\).png);
+    background-size: cover;
+    height: 650px;
+   
+}
+#wrapper{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    background-color: rgba(114,102,102,0.267);
+    position: fixed;
+}
+#logo{
+  padding: 30px;
+    /* border: solid red; */
+    margin-left: 30px;
+}
+#menu{
+   /* border: solid blue; */
+  padding: 20px;
+  margin-left: 250px;
+
+  
+}
+#menu a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: white;
+}
+#signup{
+    width: 80px;
+    height: 40px;
+    background-color: orangered;
+    color: white;
+    margin-left: 20px;
+}
+#menu a:hover{
+    cursor: pointer;
+    color: orangered;
+}
+#signup :hover{
+    cursor: pointer;
+    color: white;
+}
+
+#heading1{
+    text-align: center;
+    font-family: serif;
+    /* border: solid red; */
+    height: 200px;
+    padding-top: 120px;
+}
+#heading-1{
+    color: white;
+    font-size: 20px;
+}
+#heading-2{
+    color: white;
+    margin-top: 40px;
+    font-size: 60px;
+}
+#btn2{
+    width: 200px;
+    height: 50px;
+    background-color: orangered;
+    color: white;
+    margin-top: 20px;
+}
+#btn2 :hover{
+    cursor: pointer;
+    background-color: whitesmoke;
+}
+#program{
+    text-align: center;
+    height: 800px;
+    padding: 100px;
+    border: solid;
+    
+}
+#hed{
+    font-size: 20px;
+}
+
+#para1{
+    padding: 30px;
+    color: gray;
+}
+#text_wrapper1{
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
+#text1_1{
+    display: flex;
+    padding: 20px;
+    /* border: solid red;  */
+}
+#text1_2{
+    display: flex;
+    margin: auto;
+    padding: 20px;
+}
+
+#text_div{
+    text-align: center;
+     /* padding: 20px; 0 */
+}
+#text_wrapper2{
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#text2_1{
+    display: flex;
+    padding: 20px;
+    /* border: solid purple;  */
+}
+#text2_2{
+    display: flex;
+    margin: auto;
+    padding: 20px;
+}
+#text_wrapper3{
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#text3_1{
+    display: flex;
+    padding: 20px;
+    /* border: solid blue;  */
+}
+#text3_2{
+    display: flex;
+    margin: auto;
+    padding: 20px;
+}
+#middle_wrapper{
+    background-image: url(../images/Untitled\ design\ \(11\).png);
+    height: 400px;
+}
+#empty{
+    height: 400px;
+    background-color: rgba(0,5,0,0.9);
+}
+#heading2{
+    text-align: center;
+    color: white;
+    padding: 150px;
+}
+#heading2 h2{
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+#img_line{
+    padding-top: 20px;
+}
+
+#classes{
+    text-align: center;
+    padding: 70px;
+}
+#training{
+    display: flex;
+    padding-bottom: 90px;
+    /* text-align: center; */   
+}
+#training1{
+    display: inline-block;
+    padding-left: 150px;
+    padding-right: 50px;
+    
+    
+}
+
+#first_training{
+    display: flex;
+    width: 300px;
+    height: 90px;
+    padding: 20px;
+    background-color: whitesmoke;
+   font-size: 20px;
+   font-family: 'Times New Roman', Times, serif;
+   cursor: pointer;
+   margin-bottom: 20px;
+   /* border: solid #666; */
+   box-shadow:#666;
+}
+#btn3{
+    width: 200px;
+    height: 40px;
+    background-color: orangered;
+    color: white;
+}
+#training2{
+    padding-right: 50px;
+}
+#hed1{
+    padding-top: 20px;
+}
+#btn4{
+    width: 150px;
+    height: 40px;
+    background-color: orangered;
+    color: white;
+}
+#bg-img3{
+    background-image: url(../images/Untitled\ design\ \(12\).png);
+    height: 600px;
+}
+#empty2{
+    height: 600px;
+    background-color: rgba(25, 24, 32, 0.267);
+}
